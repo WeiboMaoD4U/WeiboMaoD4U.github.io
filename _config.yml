@@ -14,7 +14,7 @@ description              : &description "Interests: "
 url                      : https://weibomaod4u.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://weibomaod4u.github.io/"
-teaser                   : "teaser.jpg"
+teaser                   :  
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Weibo Mao"
-  avatar           : "profile.png"
+  avatar           : "teaser.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
