@@ -21,7 +21,7 @@ None for now
   
 Skills
 ======
-* Eat
+* Self-Engineering
 
 Publications
 ======
