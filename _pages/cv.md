@@ -26,6 +26,7 @@ Skills
 Publications
 ======
 Maybe coming soon
+
 #  <ul>{% for post in site.publications %}
 #    {% include archive-single-cv.html %}
 #  {% endfor %}</ul>
@@ -33,6 +34,7 @@ Maybe coming soon
 Talks
 ======
  None for now
+ 
 #<ul>{% for post in site.talks %}
 #   {% include archive-single-talk-cv.html %}
 #  {% endfor %}</ul>
@@ -40,6 +42,7 @@ Talks
 Teaching
 ======
 None for now
+
 # <ul>{% for post in site.teaching %}
 #   {% include archive-single-cv.html %}
 # {% endfor %}</ul>
@@ -47,4 +50,5 @@ None for now
 Service and leadership
 ======
 None for now
+
 #* Currently signed in to 43 different slack teams
