@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am still editing this personal page (个人主页还在施工)"
+title: "Keeping updating"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
