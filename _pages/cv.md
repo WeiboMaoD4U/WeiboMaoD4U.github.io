@@ -21,7 +21,7 @@ None for now
   
 Skills
 ======
-* Self-Engineering
+* Myself-Engineering
 
 Publications
 ======
