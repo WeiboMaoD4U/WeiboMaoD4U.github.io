@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Keeping updating"
+title: "Keeping Updating"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 Personal Information
 ======
 Name: Wei-Bo Mao (茅伟博) 
