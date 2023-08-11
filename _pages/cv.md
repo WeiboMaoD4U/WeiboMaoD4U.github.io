@@ -21,8 +21,8 @@ None for now
   
 Skills
 ======
-* Myself-Engineering
-
+* Myself-Engineer
+* Eat&Sleep&Play
 Publications
 ======
 Maybe coming soon
