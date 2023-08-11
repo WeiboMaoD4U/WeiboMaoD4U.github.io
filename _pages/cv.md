@@ -23,32 +23,19 @@ Skills
 ======
 * Myself-Engineer
 * Eat&Sleep&Play
+  
 Publications
 ======
 Maybe coming soon
-
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
   
 Talks
 ======
  None for now
- 
-#<ul>{% for post in site.talks %}
-#   {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
   
 Teaching
 ======
 None for now
-
-# <ul>{% for post in site.teaching %}
-#   {% include archive-single-cv.html %}
-# {% endfor %}</ul>
   
 Service and leadership
 ======
-None for now
-
-#* Currently signed in to 43 different slack teams
+I control about five billion cells
